@@ -5,7 +5,7 @@ import { MdAdd, MdCancel, MdEdit,MdSave } from 'react-icons/md';
 import { Modal } from 'react-bootstrap';
 import swal from 'sweetalert';
 
-export default class Login extends Component {
+export default class Sacco extends Component {
     constructor(props) {
         super(props);
         this.state =
